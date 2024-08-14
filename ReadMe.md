@@ -5,10 +5,10 @@
 Here you can find the datasets for the AI Data Science notebooks
 
 M1.4 DataScience I
-1. Feature Engineering
-2. Regression
+1. Encoding Categorical Variables
+2. Data Transformation
+3. Linear Regression
 
 M1.5 DataScience II
-1. Logistic Regression
-2. Best Metrics
-3. Pipeline ML
+1. Best Metrics
+2. Complete ML Pipeline
